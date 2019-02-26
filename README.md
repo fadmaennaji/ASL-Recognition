@@ -9,4 +9,4 @@
 
 ## Experimental results
 
-![acc value](https://raw.githubusercontent.com/fadma1996/ASL-Recognition/branch/path/to/val_acc.png)
+![accuracy value](https://raw.githubusercontent.com/fadma1996/ASL-Recognition/master/to/val_acc.png)
